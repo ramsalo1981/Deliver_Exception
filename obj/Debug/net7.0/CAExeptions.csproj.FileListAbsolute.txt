@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\bin\Debug\net7.0\CAExeptions.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\bin\Debug\net7.0\CAExeptions.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\bin\Debug\net7.0\CAExeptions.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\bin\Debug\net7.0\CAExeptions.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\bin\Debug\net7.0\CAExeptions.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\CAExeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\CAExeptions.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\CAExeptions.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\CAExeptions.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\CAExeptions.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\refint\CAExeptions.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\CAExeptions.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\CAExeptions.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAExeptions\obj\Debug\net7.0\ref\CAExeptions.dll
