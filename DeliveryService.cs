@@ -30,8 +30,9 @@ namespace CAExeptions
             catch (Exception ex)
             {
 
-                Console.WriteLine($"Deliver fails due to: {ex.Message}");
-                delivery.DeliveryStatus = DeliveryStatus.UNKNOWN;
+                throw;
+                //Console.WriteLine($"Deliver Fails due to: {ex.Message}");
+                //delivery.DeliveryStatus = DeliveryStatus.UNKNOWN;
             }
             finally { Console.WriteLine("End"); }
             
