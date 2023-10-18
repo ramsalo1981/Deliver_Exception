@@ -4,10 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Delivery delivery = new Delivery() { Id=1, CustomerName="rami", Address="sweden", DeliveryStatus = DeliveryStatus.INTRANSIT};
+            var delivery = new Delivery { Id = 1, CustomerName = "Issam A.", Address = "123 Street" };
             var service = new DeliveryService();
-            service.Start(delivery);
+            try
+            {
+                service.Start(delivery);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
             Console.WriteLine(delivery);
+            Console.ReadKey();
         }
     }
 }
